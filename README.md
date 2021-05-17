@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 marp: false
 <!-- paginate: true -->
@@ -55,3 +56,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 > 2ºE.E.= a * (0,4) + b*(0,6)
 
 > Média= ( 1º E.E. + 2ºE.E.) /2
+=======
+# ParcelamentoTerritorial
+Material da Disciplina
+>>>>>>> 2f4ab6b784dfbfcebd03360151406999ac43fa77
